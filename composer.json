@@ -1,0 +1,16 @@
+{
+    "name": "romain/zoo",
+    "description": "Zoo project to implement OOP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CandussoR",
+            "email": "r.candusso@protonmail.com"
+        }
+    ],
+    "require": {}
+}
