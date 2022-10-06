@@ -1,7 +1,5 @@
-# php-oop
-Remise à niveau php version orienté objet
-
-(phar est un fichier exécutable php)
+<h1 align="center"> Zoo</h1>
+<h2 align="center">Une remise à niveau sur la prog orientée objet en PHP</h2>
 
 ## Composer
 
@@ -70,7 +68,7 @@ On définit une classe qui l'implémente avec `class <Class> implements <Interfa
 Si une classe implémente plusieurs interfaces, elles sont listées avec des virgules.
 
 ## Object calisthenics
-La gymnastique des objets est régie par 9 principes qui constituent des bonnes pratiques de l'orienté objet, dont certaines sont illustrées pour Java dans le livre de Robert Martin, *Clean Code* :  
+La gymnastique des objets est régie par 9 principes qui constituent des bonnes pratiques de l'orienté objet, dont certaines sont illustrées pour Java dans le livre de Robert Martin, *Clean Code*, mais qui viennent apparemment de Jeff Bay :  
   - rester à un seul niveau d'indentation (en théorie, en pratique 2 est acceptable) :
     - ce qui demande un niveau supplémentaire peut être abstrait dans une fonction ;
   - *éviter* l'usage de else :
