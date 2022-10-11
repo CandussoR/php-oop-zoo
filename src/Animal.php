@@ -9,7 +9,7 @@ abstract class Animal {
         return $this->name;
     }
 
-    function __construct($name) {
+    function __construct(string $name) {
         $this->name = $name;
     }
 
